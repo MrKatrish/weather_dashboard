@@ -5,13 +5,14 @@
 The Weather Dashboard is a robust application designed to provide real-time weather updates for various cities, aiding travelers in planning their trips efficiently. Utilizing Server-Side APIs, specifically the 5 Day Weather Forecast API, the app dynamically updates HTML and CSS to reflect current and future weather conditions. The application requires an API key from OpenWeatherMap and uses geographical coordinates for accurate data retrieval.
 
 ## Table of Contents
-- Description
-- Installation
-- Usage
-- Features
-- Screenshot and links
-- Credits
-- Technologies Used
+
+  - [Description](#description)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Features](#features)
+  - [Screenshot and links](#screenshot-and-links)
+  - [Credits](#credits)
+  - [Technologies Used](#technologies-used)
 
 ## Installation
 
@@ -21,9 +22,9 @@ To install and run this weather dashboard:
 
 2. Obtain an API key from OpenWeatherMap and activate it (activation may take up to 2 hours).
 
-3. Replace {API key} in the API call URL with your personal key:
+3. Replace YPE_YOUR_API_KEY_HERE in the apiKey with your personal key:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`https://api.openweathermap.org/data/2.5/forecast?lat={lat}&lon={lon}&appid={API key}`
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`const apiKey = 'TYPE_YOUR_API_KEY_HERE';`
 
 ## Usage
 
