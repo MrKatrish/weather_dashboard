@@ -1,0 +1,36 @@
+body {
+    background-color: #e9ecef;
+  }
+  .weather-header {
+    background-color: #343a40;
+    color: white;
+    padding: 20px 0;
+    margin-bottom: 20px;
+  }
+  .weather-search {
+    margin-bottom: 10px;
+  }
+  .search-button {
+    background-color: #007bff;
+    color: white;
+  }
+  .weather-hr {
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  .list-group-item {
+    background-color: #f8f9fa;
+  }
+  .list-group-item:hover {
+    background-color: #e2e6ea;
+  }
+  #today {
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  .forecast-card {
+    background-color: #007bff;
+    color: white;
+    margin-bottom: 10px;
+  }
