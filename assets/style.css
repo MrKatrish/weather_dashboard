@@ -34,3 +34,25 @@ body {
     color: white;
     margin-bottom: 10px;
   }
+
+  .forecast-container {
+    background-color: #343a40; 
+    padding: 20px;
+    margin-bottom: 20px;
+    color: white;
+  }
+  
+  .forecast-item {
+    background-color: #007bff; 
+    color: white;
+    padding: 10px;
+    margin: 10px;
+    flex-basis: calc(20% - 20px); 
+    text-align: center;
+  }
+  
+  .forecast-row {
+    display: flex;
+    justify-content: space-between;
+  }
+  
