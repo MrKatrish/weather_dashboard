@@ -22,7 +22,7 @@ To install and run this weather dashboard:
 
 2. Obtain an API key from OpenWeatherMap and activate it (activation may take up to 2 hours).
 
-3. Replace YPE_YOUR_API_KEY_HERE in the apiKey with your personal key:
+3. Replace TYPE_YOUR_API_KEY_HERE in the apiKey with your personal key:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`const apiKey = 'TYPE_YOUR_API_KEY_HERE';`
 
